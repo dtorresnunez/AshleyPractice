@@ -1,1 +1,1 @@
-x = matrix(runif(10),ncol=5)
+x = matrix(runif(10),ncol=5);x+5
